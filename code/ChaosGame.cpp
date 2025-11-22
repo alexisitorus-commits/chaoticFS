@@ -24,7 +24,7 @@ int main()
 	{
 		cout << "font isn't real sorry.";
 	}
-
+	
 	sf::Text text;
 	text.setFont(font);
 	text.setString("Please click 3 vertices, then click a starting point!");
