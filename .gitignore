@@ -1,8 +1,10 @@
+#VS files
 .vs*
 *.vcx*
 *.sln
 x64
 x86
+
 # Prerequisites
 *.d
 
@@ -15,12 +17,6 @@ x86
 # Precompiled Headers
 *.gch
 *.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
 
 # Compiled Dynamic libraries
 *.so
@@ -41,6 +37,3 @@ x86
 *.exe
 *.out
 *.app
-
-# debug information files
-*.dwo
